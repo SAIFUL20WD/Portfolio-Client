@@ -46,7 +46,7 @@ const NavbarCustom = () => {
 				</Navbar.Link>
 				<Navbar.Link as="span">
 					<Link
-						to="https://drive.google.com/file/d/1G26SKEHJJNZXtlaZy265DCLkF-AXhpoT/view?usp=sharing"
+						to="https://drive.google.com/file/d/1ucYFdAuEdNCTSVmnks2xxL_DFpOrbSff/view?usp=sharing"
 						target="_blank"
 						className="bg-custom py-2 px-4 rounded"
 					>
